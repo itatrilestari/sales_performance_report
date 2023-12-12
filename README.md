@@ -3,7 +3,7 @@
 Dataset yang digunakan bersumber dari dataset kaggle "Sales Performance Report DQLab Store" oleh DHAWY FARRAS PUTRA.
 
 Dataset ini berisi data transaksi dari tahun 2009-2012 dengan 5500 raw data dan 10 columns.
-![Screenshot (309)](https://github.com/itatrilestari/sales_performance_report/assets/126906101/cdd2d592-264e-4731-9865-f459c10fb42f)
+![Screenshot (309)](https://github.com/itatrilestari/sales_performance_report/assets/126906101/e8433505-8263-4ee0-a992-32388ec415c9)
 
 
 Beberapa hal yang saya lakukan dengan menggunakan data ini adalah : 
@@ -12,6 +12,7 @@ Beberapa hal yang saya lakukan dengan menggunakan data ini adalah :
 
   Hasilnya sebagai berikut : 
 ![Screenshot (308)](https://github.com/itatrilestari/sales_performance_report/assets/126906101/6c9273cd-5f54-4807-9233-7678eda1af38)
+
   Berdasarkan hasil tersebut, kita dapat lihat bahwa terjadi penurunan transaksi pada tahun 2011 yaitu terdapat 581 transaksi.
 
   
